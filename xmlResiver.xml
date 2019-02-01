@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<slack id="4W100" to_fit="MERITOR" axle_side="L&&R" other_side="4W100">
+  <crosses>
+    <cross key="1">
+      <descr>HALDEX</descr>
+      <value>72788</value>
+    </cross>
+    <cross key="2">
+      <descr>HALDEX</descr>
+      <value>79235</value>
+    </cross>
+    <cross key="3">
+      <descr>HALDEX</descr>
+      <value>72267</value>
+    </cross>
+    <cross key="4">
+      <descr>OEM</descr>
+      <value>21223694</value>
+    </cross>
+    <cross key="5">
+      <descr>OEM</descr>
+      <value>21229249</value>
+    </cross>
+    <cross key="6">
+      <descr>QAS</descr>
+      <value>AS2788</value>
+    </cross>
+  </crosses>
+  <vehicle_type>TRAILER FAST FIT</vehicle_type>
+  <supplied_with>
+    <kit id="1">K1000</kit>
+    <kit id="2">K2000</kit>
+  </supplied_with>
+  <slack_params>
+    <Offset key="A">0</Offset>
+    <Inclination key="B">20</Inclination>
+    <Control_arm_angle key="C">60</Control_arm_angle>
+    <Control_arm_type key="D">QF</Control_arm_type>
+    <Spline_teeth key="E">10</Spline_teeth>
+    <Clevis_bush key="F">14,2</Clevis_bush>
+  </slack_params>
+  <Hole_params>
+    <hole id="1">115</hole>
+    <hole id="2">127</hole>
+    <hole id="3">140</hole>
+    <hole id="4">153</hole>
+    <hole id="5">205</hole>
+    <hole id="6"></hole>
+    <hole id="7"></hole>
+  </Hole_params>
+</slack>
